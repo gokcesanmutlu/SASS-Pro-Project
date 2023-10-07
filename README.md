@@ -14,9 +14,9 @@
     <li>SASS</li>
     <li>JS</li>
   </ul>
-  <!-- <p>You can reach to Website, when you are click <a href="https://rrealestatewebsite.netlify.app/">HERE</a>.</p> -->
+  <p>You can reach to Website, when you are click <a href="https://articlesss.netlify.app/">HERE</a>.</p>
 
 </body>
 </html>
 
-<!-- Screenshot ![RealEstateprojectgif](realestate.gif) -->
+Screenshot ![SASS-projectgif](article.gif)
